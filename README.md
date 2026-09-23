@@ -1,5 +1,5 @@
 # INEP Videojocs
 
-Repositori del projecte **INEP Videojocs**.
+Repository for the **INEP Videojocs** project.
 
-Ara mateix no hi ha codi font, escenes ni dependències: l'únic fitxer del repositori és aquest README. El nom conserva el treball; el joc o la pràctica no estan versionats en aquesta branca.
+There is no source code, scenes, or dependencies right now: the only file in the repository is this README. The name keeps the project; the game or the coursework is not versioned on this branch.
